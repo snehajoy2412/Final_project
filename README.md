@@ -23,9 +23,6 @@ Examine demand variability and customer purchasing behavior
 
 Support data-driven decision-making for optimizing logistics operations
 
-Author Sneha Joy snehajoy2412@gmail.com  https://www.linkedin.com/in/snehajoy-/
-
-
 
 Ultimately, the project demonstrates how data analysis techniques can be used to enhance operational efficiency, cost control, and customer satisfaction in smart logistics systems.
 
@@ -44,3 +41,6 @@ Examines stock levels, inventory distribution, and utilization patterns to ident
 Technologies Used
 
 Python Pandas, NumPy, Matplotlib, Seaborn Jupyter Notebook
+
+
+Author Sneha Joy snehajoy2412@gmail.com  https://www.linkedin.com/in/snehajoy-/
